@@ -10,7 +10,7 @@ Slope soaring is long established discipline of aeromodelling. Slope soaring gli
 
 ## Prototype (hybrid)
 
-The prototype is a hybrid with a 3D printed fuselage (PLA+ from eSun) with a foam-cut EPS wing (by Mike Chantler, who also suggested the MH-45 profile). The foam is stiffened with carbon fibre and laminating gilm. It was fitted with standard servos, a 4-cell AA battery pack and foam wings cut by Mike Chantler. We like it. A lot. The STL and slicer files are in [./print](./print).
+The prototype is a hybrid with a 3D printed fuselage (PLA+ from eSun) with a foam-cut EPS wing (by Mike Chantler, who also suggested the MH-45 profile). The foam is stiffened with carbon fibre and laminating film. It was fitted with standard servos, a 4-cell AA battery pack. We liked it, and expect to build more. The STL and slicer files are in [./print](./print).
 
 ![flying](./img/flying.jpg)
 
